@@ -1,0 +1,14 @@
+{
+  "name": "gcloudscript",
+  "version": "1.0.0",
+  "main": "GAS+Node.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+  
+}
